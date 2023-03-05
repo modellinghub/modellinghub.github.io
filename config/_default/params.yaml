@@ -53,7 +53,7 @@ footer:
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: '01/02/06'
   time_format: '3:04 PM'
   address_format: en-us
 
@@ -66,7 +66,7 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
@@ -96,7 +96,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'mapnik'
+    provider: 'google'
     api_key: ''
     zoom: 15
 
