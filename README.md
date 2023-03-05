@@ -10,5 +10,5 @@
 
 [cont]: ./content/contact/contact.md
 [team]: ./content/people/people.md
-[research]: ./content/publication/_index.md
+[research]: ./content/publication/
 [platform]: https://www.antarcticscienceplatform.org.nz
