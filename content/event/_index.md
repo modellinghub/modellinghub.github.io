@@ -6,6 +6,6 @@ view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
-  caption: ''
-  image: ''
+  caption: 'Modelling Hub'
+  image: 'header.jpg'
 ---
