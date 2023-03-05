@@ -18,10 +18,10 @@ content:
   user_groups:
     - Researchers
     - Students
-    - Administration
     - Assosiated Researchers
 design:
   show_interests: false
   show_role: true
   show_social: true
 ---
+
