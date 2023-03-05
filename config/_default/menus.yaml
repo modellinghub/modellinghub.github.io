@@ -17,8 +17,8 @@ main:
     url: event
     weight: 40
   - name: Publications
-    url: publication
+    url: https://modellinghub.github.io/Modelling-Hub/publications
     weight: 50
   - name: Contact
-    url: contact
+    url: https://modellinghub.github.io/Modelling-Hub/contact
     weight: 60
