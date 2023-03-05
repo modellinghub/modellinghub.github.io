@@ -1,5 +1,5 @@
 [The Anrarctic Science Platform][platform] presents.. The Modelling Hub.
-[Meet the team][team] and check out our [current research][research] here.
+[Meet the team][team] and check out our [latest papers][research] here.
 
 
 
@@ -9,6 +9,6 @@
 
 
 
-[team]: https://modellinghub.github.io/Modelling-Hub/team
-[research]: https://modellinghub.github.io/Modelling-Hub/research
+[team]: https://modellinghub.github.io/Modelling-Hub/people
+[research]: https://modellinghub.github.io/Modelling-Hub/publication
 [platform]: https://www.antarcticscienceplatform.org.nz
