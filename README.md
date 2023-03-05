@@ -9,6 +9,6 @@
 
 
 [cont]: ./content/contact/contact.md
-[team]: https://modellinghub.github.io/Modelling-Hub/people
-[research]: https://modellinghub.github.io/Modelling-Hub/publication
+[team]: ./content/people/people.md
+[research]: ./content/publication/_index.md
 [platform]: https://www.antarcticscienceplatform.org.nz
