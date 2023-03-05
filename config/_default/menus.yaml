@@ -11,14 +11,14 @@ main:
     url: /#news
     weight: 20
   - name: People
-    url: /people/people.md
+    url: /people/
     weight: 30
   - name: Events
     url: event
     weight: 40
   - name: Publications
-    url: /#publication
+    url: publication
     weight: 50
   - name: Contact
-    url: /#contact
+    url: contact
     weight: 60

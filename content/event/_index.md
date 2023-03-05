@@ -5,7 +5,7 @@ title: Recent & Upcoming Events
 view: compact
 
 # Optional header image (relative to `assets/media/` folder).
-banner:
-  caption: 'Modelling Hub'
-  image: 'header.jpg'
+#banner:
+#  caption: 'Modelling Hub'
+#  image: 'header.jpg'
 ---

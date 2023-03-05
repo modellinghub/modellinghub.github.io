@@ -6,10 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: ocean
-  theme_night: ocean
-  font: native
-  font_size: L
+# theme_day: "Ocean"
+# theme_night: "Dark"
+  google_fonts: family=Nunito:ital,wght@0,300;1,300
+  font: Nunito
+  font_size: M
 
 # SEO
 
@@ -43,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Alena Malyarenko. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -99,7 +100,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: 'google'
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 

@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: false # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  ASP Modelling Hub
+  About Us
 #hero_media: modelling-hub.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -17,3 +17,11 @@ design:
   css_class:
 ---
 
+[The Anrarctic Science Platform][platform] presents... The Modelling Hub.
+
+
+
+[![Screenshot](../../images/modelling_hub.jpg)](https://wowchemy.com/hugo-themes/)
+
+
+[platform]: https://www.antarcticscienceplatform.org.nz

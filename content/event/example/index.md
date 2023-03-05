@@ -1,7 +1,7 @@
 ---
-title: Example Event
+title: ASP Modelling Hub - Winter School
 
-event: Wowchemy Conference
+event: ASP Modelling Hub - Winter School
 event_url: https://example.org
 
 location: Wowchemy HQ
