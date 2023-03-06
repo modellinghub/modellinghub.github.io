@@ -17,11 +17,9 @@ design:
   css_class:
 ---
 
-[The Anrarctic Science Platform][platform] presents... The Modelling Hub.
+[The Anrarctic Science Platform][platform] presents... The hub of the Modelling Hub.
 
 
-
-[![Screenshot](../../images/modelling_hub.jpg)](https://wowchemy.com/hugo-themes/)
 
 
 [platform]: https://www.antarcticscienceplatform.org.nz

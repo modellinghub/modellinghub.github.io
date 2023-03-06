@@ -10,7 +10,7 @@ active: true
 headless: false
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title:
 subtitle:
@@ -18,14 +18,14 @@ subtitle:
 design:
   columns: '1'
   background:
-    image: asp.png
+    image: header.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
-    image_size: cover
+    image_size: contain
     text_color_light: true
   spacing:
-    padding: ['20px', '0', '20px', '0']
+    padding: ['0', '0', '0', '0']
 advanced:
   css_class: fullscreen
 ---

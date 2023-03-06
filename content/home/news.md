@@ -2,13 +2,13 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 20
+weight: 30
 
 title: Latest News
 subtitle:
 
 content:
-  count: 5
+  count: 2
   filters:
     author: ''
     category: ''
