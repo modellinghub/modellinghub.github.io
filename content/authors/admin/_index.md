@@ -10,8 +10,8 @@ role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: NIWA
-    url: ''
+  - name: NIWA Taihoro Nukurangi
+   # url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include frozen oceans and how they interact with atmosphere
@@ -38,15 +38,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:alena.malyarenko@niwa.co.nz'
+#  - icon: envelope
+#    icon_pack: fas
+#    link: 'mailto:alena.malyarenko@niwa.co.nz'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AlenaMalyarenko
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=qD4dU4QAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=qD4dU4QAAAAJ&hl=en  
   - icon: github
     icon_pack: fab
     link: https://github.com/alenamalyarenko
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+#email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

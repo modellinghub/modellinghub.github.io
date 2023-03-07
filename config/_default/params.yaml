@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-# theme_day: "Ocean"
-# theme_night: "Dark"
+  theme_day: "Ocean"
+  theme_night: "Mr Robot"
   google_fonts: family=Nunito:ital,wght@0,300;1,300
   font: Nunito
   font_size: M

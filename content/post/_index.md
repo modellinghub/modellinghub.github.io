@@ -1,6 +1,6 @@
 ---
 title: Latest News
-
+draft: true 
 # Listing view
 view: compact
 
