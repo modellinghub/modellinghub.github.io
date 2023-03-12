@@ -27,6 +27,6 @@ design:
 
 ---
 
-[The Anrarctic Science Platform][platform] presents... The hub of the Modelling Hub.
+[The Antarctic Science Platform][platform] presents... The hub of the Modelling Hub.
 
 [platform]: https://www.antarcticscienceplatform.org.nz

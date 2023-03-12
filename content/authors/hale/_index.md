@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hikhil Hale
+title: Nikhil Hale
 
 # Is this the primary user of the site?
 superuser: false
