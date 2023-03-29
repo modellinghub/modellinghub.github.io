@@ -1,33 +1,33 @@
 ---
 # Display name
-title: Nick Golledge
+title: Ihanshu Rane
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
   - name:  Victoria University of Wellington 
-    url: 'https://people.wgtn.ac.nz/nick.golledge'
+    url: 'https://www.wgtn.ac.nz/antarctic/about/grad-students/ihanshu-rane'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Antarctica, glaciers & glaciology, climate & climate change
+  - Antarctic atmosphere and winds
   - Numerical modelling of Earth systems
 
 education:
   courses:
-    - course: Ph.D "Glacial geology and glaciology of the Younger Dryas ice cap in Scotland"
-      institution: University of Edinburgh, UK
-      year: 2009
-    - course: B.Sc (Hons.) Physical Geography
-      institution: University of Aberdeen, UK
-      year: 1996
+    - course: M.Tech. Atmospheric Science
+      institution: Savitribai Phule Pune University, India
+      year: 2018
+    - course: B.E. Electronics and Telecommunication
+      institution: University of Mumbai, India
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,13 +39,13 @@ social:
   #  link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/nick_golledge
+    link: 
   - icon: mastodon
     icon_pack: fab
-    link: https://mastodon.social/@nick_golledge
+    link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=KRO8OiYAAAAJ&hl=en
+    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'nicholas.golledge@vuw.ac.nz'
+email: 'ihanshu.rane@vuw.ac.nz'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -64,5 +64,4 @@ user_groups:
   - Researchers
 ---
 
-
-I am an Earth scientist primarily researching the Antarctic ice sheet using numerical models and field data. I am a former Rutherford Discovery Fellow, a Lead Author on the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, and currently I lead a number of components of the MBIE-funded ‘Antarctic Science Platform’ and ‘Our Changing Coasts’ research programmes.
+I am a PhD student who is interested in Antarctic atmosphere and modeling, and also curious about Machine Learning.

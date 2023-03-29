@@ -1,35 +1,32 @@
 ---
 # Display name
-title: Nikhil Hale
+title: Yaowen Zheng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-  - name:  Victoria University of Wellington 
-    url: 'https://www.wgtn.ac.nz/antarctic/about/grad-students/nikhil-hale'
+  - name:  Victoria University of Wellington
+    url: 'https://www.wgtn.ac.nz/antarctic/about/grad-students/yaowen-zheng'
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
-  - Polar Science
-  - Air-Sea-Ice Interaction
-  - Climate Science&Climate Change
-  - Climate Modelling
+  - Science
 
 education:
   courses:
-    - course: M.Sc.(Atmospheric Science)
-      institution: Savitribai Phule Pune University, India
+    - course: B.Sc (Hons.) Physical Oceanography
+      institution: University of Tasmania, Australia
       year: 2020
-    - course: B.Sc (Physics) 
-      institution: Fergusson College, Pune(India)
-      year: 2018
+    - course: B.Sc Marine Science
+      institution: Ocean University of China, China
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,22 +38,21 @@ social:
   #  link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: 
-- icon: mastodon
-    icon_pack: fab
-    link: 
+    link: https://twitter.com/yaowen_zheng
+  #- icon: mastodon
+  #  icon_pack: fab
+#    link: https://mastodon.social/@nick_golledge
   - icon: google-scholar
     icon_pack: ai
-    link: 
-
+    link: https://scholar.google.com/citations?user=w7QSzrsAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/Yaowen_Zheng_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'nikhil.hale@vuw.ac.nz'
+email: 'yaowen.zheng@vuw.ac.nz'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -67,4 +63,4 @@ user_groups:
   - Researchers
 ---
 
-I am fascinated by polar environment, and its various processes influencing polar and global climate. Currently, I am researching the air-sea-ice interaction in Ross Sea Polynya in the present and the past using a coupled model:P-SKRIPS ver1.  
+I am a PhD student modelling the surface melting of Antarctic ice sheet.

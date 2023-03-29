@@ -16,7 +16,7 @@ organizations:
     url: 'https://www.gns.cri.nz/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include carbon cycle dynamics and the impact of changes in Antarctica on global climate. Using terrestrial ecosystem models and intermediate-complexity earth system model simulations, I investigate carbon fluxes and environmental change in the present and past warm intervals to understand possible future scenarios.
+bio: 
 
 interests:
   - Soccer
@@ -65,4 +65,4 @@ highlight_name: false
 user_groups:
   - Researchers
 ---
-
+My research interests include carbon cycle dynamics and the impact of changes in Antarctica on global climate. Using terrestrial ecosystem models and intermediate-complexity earth system model simulations, I investigate carbon fluxes and environmental change in the present and past warm intervals to understand possible future scenarios.

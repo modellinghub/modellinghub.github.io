@@ -1,33 +1,38 @@
 ---
 # Display name
-title: Nick Golledge
+title: Dan Lowry
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Ice Sheet Modeller
 
 # Organizations/Affiliations
 organizations:
-  - name:  Victoria University of Wellington 
-    url: 'https://people.wgtn.ac.nz/nick.golledge'
+  - name:  GNS Science
+    url: 'https://www.gns.cri.nz/about-us/staff-search/dan-lowry/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Antarctica, glaciers & glaciology, climate & climate change
-  - Numerical modelling of Earth systems
+  - Ice sheet dynamics
+  - Ice shelf-ocean interactions
+  - Ice sheet-bed interactions
+  - Antarctic surface mass balance
 
 education:
   courses:
-    - course: Ph.D "Glacial geology and glaciology of the Younger Dryas ice cap in Scotland"
-      institution: University of Edinburgh, UK
-      year: 2009
-    - course: B.Sc (Hons.) Physical Geography
-      institution: University of Aberdeen, UK
-      year: 1996
+    - course: PhD 
+      institution: Victoria University of Wellington
+      year: 2019
+    - course: MSc
+      institution: The University of Michigan
+      year: 2014
+    - course: BSc 
+      institution: Brown University
+      year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,13 +44,13 @@ social:
   #  link: 'mailto:test@example.org'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/nick_golledge
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.social/@nick_golledge
+    link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=KRO8OiYAAAAJ&hl=en
+    link: 
+  - icon: github
+    icon_pack: fab
+    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'nicholas.golledge@vuw.ac.nz'
+email: 'd.lowry@gns.cri.nz'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -64,5 +69,4 @@ user_groups:
   - Researchers
 ---
 
-
-I am an Earth scientist primarily researching the Antarctic ice sheet using numerical models and field data. I am a former Rutherford Discovery Fellow, a Lead Author on the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, and currently I lead a number of components of the MBIE-funded ‘Antarctic Science Platform’ and ‘Our Changing Coasts’ research programmes.
+Dan is an ice sheet and climate modeller working to understand the impacts of climate changes on the Antarctic ice sheet in the past, present and future. His research interests include past deglaciations, parameter uncertainty in ice sheet models, ice sheet-solid Earth feedbacks, ice shelf-ocean interactions and ice sheet surface mass balance.

@@ -1,35 +1,35 @@
 ---
 # Display name
-title: Nikhil Hale
+title: Huiling Zou
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name:  Victoria University of Wellington 
-    url: 'https://www.wgtn.ac.nz/antarctic/about/grad-students/nikhil-hale'
-
+  - name:  Victoria University of Wellington, GNS, British Antarctic Survey
+ 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-  - Polar Science
-  - Air-Sea-Ice Interaction
-  - Climate Science&Climate Change
-  - Climate Modelling
+  - Antarctica, Last Interglacial, water isotope, climate & climate change
+  - Numerical modelling of Earth systems
 
 education:
   courses:
-    - course: M.Sc.(Atmospheric Science)
-      institution: Savitribai Phule Pune University, India
-      year: 2020
-    - course: B.Sc (Physics) 
-      institution: Fergusson College, Pune(India)
-      year: 2018
+    - course: Ph.D "Temperature reconstruction in Antarctica during the last interglacial"
+      institution: Victoria University of Wellington, NZ
+      year: 
+    - course: M.Sc Physical Oceanography
+      institution: University of Chinese Academy of Sciences, China
+      year: 2017
+    - course: B.Sc Physical Oceanography
+      institution: Nanjing University of Information Science & Technology, China
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -39,15 +39,6 @@ social:
  # - icon: envelope
   #  icon_pack: fas
   #  link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: 
-- icon: mastodon
-    icon_pack: fab
-    link: 
-  - icon: google-scholar
-    icon_pack: ai
-    link: 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -56,7 +47,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'nikhil.hale@vuw.ac.nz'
+email: 'huiling.zou@vuw.ac.nz'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -67,4 +58,4 @@ user_groups:
   - Researchers
 ---
 
-I am fascinated by polar environment, and its various processes influencing polar and global climate. Currently, I am researching the air-sea-ice interaction in Ross Sea Polynya in the present and the past using a coupled model:P-SKRIPS ver1.  
+I am a PhD student in the ARC. I mainly focus on the responses of the stable water isotope to elevation changes and ice changes in Antarctica during the last interglacial by using the isotope-enabled model, HadCM3.
