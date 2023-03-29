@@ -35,8 +35,8 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
    - icon: envelope
-    icon_pack: fas
-    link: 'mailto:beatrice.desy@vuw.ac.nz'
+     icon_pack: fas
+     link: 'mailto:beatrice.desy@vuw.ac.nz'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/nick_golledge
