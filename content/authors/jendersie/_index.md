@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focus is on ocean circulation around Antarctica, in particular under ice shelves and in polynyas.
+bio: 
 
 interests:
   - ice shelves
@@ -64,3 +64,4 @@ user_groups:
   - Researchers
 ---
 
+My research focus is on ocean circulation around Antarctica, in particular under ice shelves and in polynyas.

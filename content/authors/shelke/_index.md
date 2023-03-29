@@ -6,7 +6,7 @@ title: Prasad Shelke
 superuser: false
 
 # Role/position
-role: Doctoral Researcher
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Students
 ---
 
 A Climate enthusiast interested in better understanding of Ocean-Atmosphere interaction processes. I am a former Marie-Curie Fellow worked on the goal of Minamata Convention of United Nations in which, I contributed towards design and development of a Regional Mercury Model to estimate transport of Mercury pollutant for better representation of Ocean-Atmosphere exchange of Mercury. My research interests are inclined towards better representation of Ocean-Atmosphere dynamics in Regional and Global Climate Models under Climate Change Scenarios.

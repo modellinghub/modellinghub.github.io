@@ -52,7 +52,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Students
 ---
 
 I am fascinated by polar environment, and its various processes influencing polar and global climate. Currently, I am researching the air-sea-ice interaction in Ross Sea Polynya in the present and the past using a coupled model:P-SKRIPS ver1.  
