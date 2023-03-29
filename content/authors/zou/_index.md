@@ -55,7 +55,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Students
 ---
 
 I am a PhD student in the ARC. I mainly focus on the responses of the stable water isotope to elevation changes and ice changes in Antarctica during the last interglacial by using the isotope-enabled model, HadCM3.
