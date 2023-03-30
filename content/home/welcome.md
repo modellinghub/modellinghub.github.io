@@ -27,6 +27,4 @@ design:
 
 ---
 
-[The Antarctic Science Platform][platform] presents... The hub of the Modelling Hub.
-
-[platform]: https://www.antarcticscienceplatform.org.nz
+Welcome to the online hub of the Modelling and Future Projections Working Group, a collaborative venture between NZ universities and crown research institutes aiming to advance Antarctic and Southern Ocean research

@@ -19,7 +19,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'Hub of the Modelling Hub'
+    description: 'Modelling Hub'
     #twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -71,7 +71,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/modellinghub/Modelling-Hub'
+    url: 'https://github.com/modellinghub/modellinghub.github.io'
     content_dir: content
     branch: main
   avatar:
