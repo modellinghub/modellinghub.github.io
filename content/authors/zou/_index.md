@@ -6,7 +6,7 @@ title: Huiling Zou
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
