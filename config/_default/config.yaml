@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Modelling Hub's hub # Website name
+title: Modelling Hub # Website name
 # baseURL: 'https://modellinghub.github.io/Modelling-Hub/#news' # Website URL
 
 ############################
