@@ -9,13 +9,14 @@ headless: false
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+# title: Contact
 subtitle:
 
 content:
   # Contact (edit or remove options as required)
 
-  email: scienceplatform@antarcticanz.govt.nz
+  #email: scienceplatform@antarcticanz.govt.nz
+  #email: asp.modellinghub@gmail.com
   #phone: 888 888 88 88
   address:
     street: Kelburn Parade
@@ -52,5 +53,5 @@ content:
 
 design:
   columns: '1'
----
 
+---
