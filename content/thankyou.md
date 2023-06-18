@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Thankyou"
+title: "Thank you"
 subtitle: ""
 summary: ""
 authors: []
@@ -27,4 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-We'' get back to you!
+Thanks for submitting your question, We'll get back to you!

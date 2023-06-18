@@ -8,12 +8,12 @@
 
 {{< rawhtml >}}
 
-<!-- <script type="text/javascript">var submitted=false;</script>
+ <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
 onload="if(submitted) {window.location='/thankyou';}"></iframe>
 
 <form action="https://docs.google.com/forms/d/e/#1FAIpQLSdNqqBO-RUhJLhu-ajR-jjXIqVl5saCdSPBrU4dnZqzc-XU0w/formResponse"
-method="post" target="hidden_iframe" onsubmit="submitted=true;"> -->
+method="post" target="hidden_iframe" onsubmit="submitted=true;"> 
 
 
 </form> 
