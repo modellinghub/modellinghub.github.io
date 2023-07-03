@@ -1,6 +1,6 @@
 ---
 title: Latest News
-draft: true 
+#draft: true 
 # Listing view
 view: compact
 
@@ -9,3 +9,4 @@ banner:
   caption: ''
   image: ''
 ---
+ 
