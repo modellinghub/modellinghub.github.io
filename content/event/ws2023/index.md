@@ -18,8 +18,8 @@ summary: Winter School on numerical modelling, data analysis, and computational 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-09-01T09:00:00Z'
-date_end: '2023-09-06T17:00:00Z'
+date: '2023-09-25T09:00:00Z'
+date_end: '2023-09-27T17:00:00Z'
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -55,6 +55,7 @@ slides:
 projects:
 ---
 
+Announcement coming soon!
 <!-- It is with great pleasure that the ASP Future Projections Expert Group now invites expressions of interest for the 2022 'Winter School' on numerical modelling, data analysis, and computational techniques for Earth and climate sciences. This two-day fully-catered workshop will run on Monday 5th and Tuesday 6th September, immediately after the ASP conference, and will take place on the Kelburn Campus of Victoria University of Wellington. 
 
 The workshop is open to all, but we anticipate that it will be most useful to postgraduate students wanting to learn essential computational research skills, or perhaps to staff wishing to update their expertise, diversify their skill-sets, or simply learn enough to be able to keep up with their students 😉
