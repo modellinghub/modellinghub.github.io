@@ -65,7 +65,7 @@
 {{- $scr.Set "home_section_even" ($theme_day.home_section_even | default "rgb(247, 247, 247)") -}}
 
 {{- $scr.Set "dark_background" ($theme_night.background | default "hsla(231, 15%, 16%, 1)") -}}
-{{- $scr.Set "dark_home_section_odd" ($theme_night.home_section_odd | default "hsla(231, 15%, 18%, 1)") -}}
+{{- $scr.Set "dark_home_section_odd" ($theme_night._section_odd | default "hsla(231, 15%, 18%, 1)") -}}
 {{- $scr.Set "dark_home_section_even" ($theme_night.home_section_even | default "hsla(231, 15%, 16%, 1)") -}}
 
 {{- $scr.Set "link" ($theme_day.link | default $theme_day.primary | default ($scr.Get "primary")) -}}
