@@ -10,7 +10,7 @@ title: Latest News
 subtitle:
 
 content:
-  count: 2
+  count: 0
   filters:
     author: ''
     category: ''
