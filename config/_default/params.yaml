@@ -44,7 +44,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Alena Malyarenko. This work is licensed under {license}'
+    notice: '© {year} Alena Malyarenko. This work is licensed under {license}. Have you seen our memes page?'
     license:
       enable: true
       allow_derivatives: false
