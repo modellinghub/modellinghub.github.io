@@ -10,8 +10,8 @@ role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-  - name: NIWA Taihoro Nukurangi
-   # url: ''
+  - name: School of Earth and Environment | Te Kura Aronukurangi, University of Canterbury | Te Whare Wānanga o Waitaha
+  - url: 'https://www.canterbury.ac.nz/science/contact-us/people/alena-malyarenko.html'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include frozen oceans and how they interact with atmosphere
